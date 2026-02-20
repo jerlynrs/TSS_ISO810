@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|c:\\users\\jrodriguez5\\onedrive - sicpa\\jerlyn\\apec\\2026-t1\\iso810\\asignacion2\\tss.api\\models\\nominadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|solutionrelative:models\\nominadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|c:\\users\\jrodriguez5\\onedrive - sicpa\\jerlyn\\apec\\2026-t1\\iso810\\asignacion2\\tss.api\\controllers\\nominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|solutionrelative:controllers\\nominacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|c:\\users\\jrodriguez5\\onedrive - sicpa\\jerlyn\\apec\\2026-t1\\iso810\\asignacion2\\tss.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|c:\\users\\jrodriguez5\\onedrive - sicpa\\jerlyn\\apec\\2026-t1\\iso810\\asignacion2\\tss.api\\tss.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B6E7F7C-7B83-4263-A097-444F608E6F4F}|TSS.Api.csproj|solutionrelative:tss.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NominaDto.cs",
+              "DocumentMoniker": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Models\\NominaDto.cs",
+              "RelativeDocumentMoniker": "Models\\NominaDto.cs",
+              "ToolTip": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Models\\NominaDto.cs",
+              "RelativeToolTip": "Models\\NominaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:29:56.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NominaController.cs",
+              "DocumentMoniker": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Controllers\\NominaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NominaController.cs",
+              "ToolTip": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Controllers\\NominaController.cs",
+              "RelativeToolTip": "Controllers\\NominaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:22:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TSS.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\TSS.Api.csproj",
+              "RelativeDocumentMoniker": "TSS.Api.csproj",
+              "ToolTip": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\TSS.Api.csproj*",
+              "RelativeToolTip": "TSS.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T15:13:47.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jrodriguez5\\OneDrive - Sicpa\\JERLYN\\APEC\\2026-T1\\ISO810\\ASIGNACION2\\TSS.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:38:57.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
